@@ -1,0 +1,108 @@
+<application>
+    <component name="ActionsCollector">
+        <counts>
+            <entry
+                action="About"
+                count="1" />
+            <entry
+                action="Android.RunAndroidAvdManager"
+                count="1" />
+            <entry
+                action="Android.RunAndroidSdkManager"
+                count="3" />
+            <entry
+                action="EditorBackSpace"
+                count="1" />
+            <entry
+                action="OpenFile"
+                count="2" />
+            <entry
+                action="Run"
+                count="1" />
+        </counts>
+    </component>
+    <component
+        name="FeatureUsageStatistics"
+        first-run="1544673491586"
+        have-been-shown="false"
+        show-in-compilation="true"
+        show-in-other="true">
+        <feature
+            count="0"
+            id="refactoring.moveTopLevel"
+            last-shown="0"
+            last-used="0"
+            shown-count="0" />
+        <feature
+            count="0"
+            id="refactoring.introduceTypedef"
+            last-shown="0"
+            last-used="0"
+            shown-count="0" />
+        <feature
+            count="0"
+            id="refactoring.rename"
+            last-shown="0"
+            last-used="0"
+            shown-count="0" />
+        <feature
+            count="0"
+            id="refactoring.pushDown"
+            last-shown="0"
+            last-used="0"
+            shown-count="0" />
+        <feature
+            count="0"
+            id="refactoring.inlineMacro"
+            last-shown="0"
+            last-used="0"
+            shown-count="0" />
+        <feature
+            count="0"
+            id="refactoring.changeSignature"
+            last-shown="0"
+            last-used="0"
+            shown-count="0" />
+        <feature
+            count="0"
+            id="codeassists.quickFix"
+            last-shown="0"
+            last-used="0"
+            shown-count="0" />
+        <feature
+            count="0"
+            id="codeassists.altInsert"
+            last-shown="0"
+            last-used="0"
+            shown-count="0" />
+        <feature
+            count="0"
+            id="codeassists.complete.statement"
+            last-shown="0"
+            last-used="0"
+            shown-count="0" />
+        <feature
+            count="0"
+            id="refactoring.inlineTypedef"
+            last-shown="0"
+            last-used="0"
+            shown-count="0" />
+        <feature
+            count="0"
+            id="navigation.goto.inspection"
+            last-shown="0"
+            last-used="0"
+            shown-count="0" />
+        <feature
+            count="0"
+            id="refactoring.introduceConstant"
+            last-shown="0"
+            last-used="0"
+            shown-count="0" />
+        <feature
+            count="0"
+            id="refactoring.pullUp"
+            last-shown="0"
+            last-used="0"
+            shown-count="0" />
+        <feature id="navigation.pop
